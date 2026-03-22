@@ -1,0 +1,6 @@
+
+https://gemini.google.com/app/f077285963d32ef9
+if consultation is cancelled initiate money return + mail user about it
+
+via vercel cron jobs: https://chatgpt.com/c/69bd6e04-0958-83a7-a867-c92d672ca5a7
+if no time slot is selected for a consultation and all time slots have passed, then also initiate money return
